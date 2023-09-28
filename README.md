@@ -1,8 +1,17 @@
 # Exercice Bootstrap 4 - Layout responsive avancé
 
-Intégrez les 4 maquettes en utilisant la grille Bootstrap. Faites en sorte que les colonnes s'adaptent à toutes les tailles d'écran représentées par les artboards.
+Intégrez les maquettes en utilisant la grille Bootstrap.
 
-Les éléments nécessaires à l'intégration se trouvent dans le dossier **\_consigne**.
+### Trouver les maquettes
+
+Le fichier se trouve:
+
+- dans l'équipe de votre classe
+- dans le projet _FD-03-Bootstrap_
+
+Il se nomme _04 - Bootstrap - Layout responsive avancé_.
+
+### Rendre les colonnes visibles
 
 Afin de rendre les colonnes visibles, vous pouvez utiliser la CSS suivante:
 
